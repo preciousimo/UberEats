@@ -8,28 +8,33 @@
   "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
   "dishes": [
     {
+      "id": "1",
       "name": "Cheese Tequeños",
       "description": "6 pieces of chese with sauce.",
       "price": 6.90,
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"
     },
     {
+      "id": "2",
       "name": "Hamburger La Super Cabo Burger",
       "description": "Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
       "price": 8.90,
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
     },
     {
+      "id": "3",
       "name": "U.S.A. Burger",
       "description": "Beef, gouda cheese, cheddar cheese, cooked ham, bacon, egg and salad.",
       "price": 5.40
     },
     {
+      "id": "4",
       "name": "Slices of Llanero Cheese",
       "description": "Ripe plantain with cheese and palm honey.",
       "price": 5.90
     },
     {
+      "id": "5",
       "name": "Papas Locas El Cabo",
       "description": "French fries with shredded chicken, gouda cheese and ham.",
       "price": 7.90
